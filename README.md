@@ -1,6 +1,6 @@
 # Simple Blog
 
-Simple blog site and admin panel.
+Simple blog site and admin panel made with php.
 
 ## Used Technologies
 
